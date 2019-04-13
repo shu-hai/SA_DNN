@@ -1,5 +1,4 @@
 # SA_DNN
-Sensitivity Analysis of Deep Neural Networks (AAAI-19 paper)
 Use CIFAR10_sample.py and MNIST_sample.py to obtain the CIFAR10 and MNIST datasets.
 
 ResNet50.py and DenseNet121.py are the two networks, which are called to be trained by CIFAR10_ResNet50.py or CIFAR10_DenseNet121.py or MNIST_ResNet50.py or MNIST_DenseNet121.py
