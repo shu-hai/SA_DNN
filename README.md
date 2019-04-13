@@ -11,4 +11,4 @@ ResNet50.py and DenseNet121.py are the two networks, which are called to be trai
 
 Then for the two benchmark datasets, take CIFAR10 and DenseNet121 for example. 
 Run CIFAR10_DenseNet121_IF_setupX.py for Setup X in the paper, where X=1,2,3,4. 
-To summarize the results, use the R code CIFAR10_DenseNet121_IF_setupX_result.R first, then use the python code CIFAR10_DenseNet121_IF_setupX_result.py for the plots.
+To summarize the results, first use the R code CIFAR10_DenseNet121_IF_setupX_result.R, and then use the python code CIFAR10_DenseNet121_IF_setupX_result.py for the plots.
