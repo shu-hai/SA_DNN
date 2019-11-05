@@ -1,7 +1,7 @@
 # SA_DNN
 This is the repository for the following AAAI-19 paper: 
 
-Shu, H., and Zhu, H. (2019) Sensitivity Analysis of Deep Neural Networks. The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), pp. 4943-4950 [DOI](https://doi.org/10.1609/aaai.v33i01.33014943 )
+Shu, H., and Zhu, H. (2019) Sensitivity Analysis of Deep Neural Networks. The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), pp. 4943-4950 [[DOI]](https://doi.org/10.1609/aaai.v33i01.33014943 )
 
 Also see the [talk slides](https://github.com/shu-hai/SA_DNN/blob/master/Slidesfor330_Shu.pdf).
 
