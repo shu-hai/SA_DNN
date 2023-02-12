@@ -5,6 +5,11 @@ Shu, H., and Zhu, H. (2019) Sensitivity Analysis of Deep Neural Networks. The Th
 
 Also see the [talk slides](https://github.com/shu-hai/SA_DNN/blob/master/Slidesfor330_Shu.pdf).
 
+We also proposed a method, called mFI-PSO, for Adversarial Image Generation based on the Manifold-based First-order Influence (mFI) measure introduced in the paper. See https://github.com/shu-hai/mFI-PSO for details.
+
+
+Instructions:
+
 Use CIFAR10_sample.py and MNIST_sample.py to obtain the CIFAR10 and MNIST datasets.
 
 ResNet50.py and DenseNet121.py are the two networks, which are called to be trained by CIFAR10_ResNet50.py, CIFAR10_DenseNet121.py, MNIST_ResNet50.py or MNIST_DenseNet121.py.
